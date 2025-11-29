@@ -8,8 +8,8 @@ from flet import (
     Alignment,
     Container
 )
-from flet_core.gradients import Gradient
-from flet_core.types import (
+from flet.core.gradients import Gradient
+from flet.core.types import (
     PaddingValue,
     MarginValue,
     BorderRadiusValue,
